@@ -1,1 +1,1 @@
-# PlatformTrainingML
+# MLOps-SageMaker
